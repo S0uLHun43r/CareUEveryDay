@@ -29,7 +29,7 @@ public class Application {
 
         // new 一个 女友
         GirlFriend girlFriend = new GirlFriend("小鲸鱼",
-                "湖北省", "武汉市", "2001-09-01", "2020-10-01", "UDontKn0wM3");
+                "湖北省", "武汉市", "2001-09-01", "2020-10-01", "ooueZ5kdgSV4P-eGPrW8xMMYu3Z0");
         Wx.sendTemplateMessage(MessageFactory.resolveMessage(girlFriend));
     }
 
